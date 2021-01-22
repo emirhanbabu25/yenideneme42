@@ -1,0 +1,20 @@
+{
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "discord.js": "^12.4.0",
+    "quick.db": "^7.1.2",
+    "moment": "^2.29.1",
+    "express": "^4.17.1",
+    "moment-duration-format": "^2.3.2",
+    "randomstring": "^1.1.5",
+    "chalk": "^4.1.0",
+    "tr": "^1.1.2"
+  }
+}
